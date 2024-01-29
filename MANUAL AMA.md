@@ -5,9 +5,6 @@
 ### INDICE
 ---
 - diagnostico
-    1. inicio del diagnostico
-    2. seguridad del diagnostico
-    3. conclusion del diagnostico
 
 - reparacion
 
@@ -15,20 +12,60 @@
 
 - descarte
 
-
-
-### DIAGNOSTICO
+## DIAGNOSTICO
 ---
-__para establecer un dignostico de debe se debe seguir los siguientes pasos:__
+conectar la tarjeta AMA en su bornera grande para asi energizar la tarjeta luego de esto empezamos el diagnostico
 
-conectar la tarjeta AMA en su bornera grande para asi energizar la tarjeta
+existen varios estados de la tarjeta AMA se pueden dividir en los siguientes 
 
+### estados
+existen varios estados de la tarjeta AMA se pueden dividir en los siguientes 
+
+    cuando el led no enciende 
+    cuando el led se pone en verde 
+    cuando el led se pone en blanco
+    cuando el led se pone en rojo 
+    cuando el led se pone en blanco parpadeante
+    cuando el led se pone en rojo parpadeante
+
+## no enciende 
+
+### software
 - si la tarjeta no enciende se procede a cargar el firmware
-- si la tarjeta no carga firmware se procede a verificar los espadines de la tarjeta
-- si la tarjeta
+- si la tarjeta no carga firmware se procede a verificar los espadines de la tarjeta esten en optimas condiciones
+- si la tarjeta no carga firmware se procede a verificar la posicion de programador y su funcionamiento
 
-[familia](https://github.com/jfuentesm1/proyecto-manuales/blob/main/img/WIN_20220911_13_10_00_Pro.jpg 'imagen modelo') 
+### alimentacion
+
+- si la tarjeta no enciende se procede a verificar el que llegen en la bornera grande los 12 voltios en los pines **batt+ y batt-**
+
+- si la tarjeta no enciende se procede a verificar que el estado de los INDUCTORES L1 Y L2 este en buenas condiciones sino **repararlos**
+
+- si la tarjeta no enciende verificar que el voltaje del LORA U5 deben llegar 5 voltios al pin (como se muestra en la foto) sino **reparalo**
+
+
+## verde
+
+### daño en IG Y L
+- con las puntas del multimetro/amperimetro en modo continuidad se debe verificar que entre los espadines IG y L no exista continuidad, sino es asi repararlo. 
+
+> [!TIP] 
+> se recomienda jorge 
+
+
+## blanco
+
+## rojo 
     
+## blanco parpadenate
+
+## rojo parpadeante 
+
+
+
+
+
+
 
 
 
