@@ -54,9 +54,10 @@ con las puntas del multimetro/amperimetro en modo continuidad se debe verificar 
 ***exiten 3 reguladores en la tarjeta ama estos son U1, U2 y U4***
 
 regulares u1 y u2 convierten 12v a 5v estos debemos energizarlos poniendo en negativo de la fuente a GND luego debemos tocar el pin **VIN** del regulador y deberia encender la tarjeta sino enciendiende se procede a reparar.
+![regulador u1,u2](https://github.com/jfuentesm1/proyecto-manuales/blob/main/img/u1%20y%20u2%20ama.jpg)
 
 regulador u4 convierte 5v a 3.3v este debemos energizar poniendo el negativo de la fuente a GND luego debemos tocar el pin **VIN** del regulador y debe encender la tarjeta sino enciende se procede a reparar.
-
+![regulador u4](https://github.com/jfuentesm1/proyecto-manuales/blob/main/img/u4%20ama.jpg)
 
 
 
