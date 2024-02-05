@@ -29,6 +29,15 @@ si la tarjeta no enciende se procede a verificar que el estado de los inductores
 ### daño en Lora 
 si la tarjeta no enciende verificar que el voltaje del Lora U5 deben llegar 5 voltios al pin (como se muestra en la foto) si no le llega el voltaje correcto se procede a reparar
 
+### daño en reguladores 
+**exiten 3 reguladores en la tarjeta ama estos son U1, U2 y U4**
+
+regulador u1 y u2 convierte 12v a 5v, debemos energizar colocando el negativo de la fuente al GND de la tarjeta y el positivo de nuestra fuente regulada a 12 voltios en el pin [VIN](https://github.com/jfuentesm1/proyecto-manuales/blob/main/img/u1%20y%20u2%20ama.jpg) del regulador y deberia encender la tarjeta sino enciendiende se procede a reparar.
+
+regulador u4 convierte 5v a 3.3v debemos energizar poniendo el negativo de la fuente a GND de la tarjeta y el positivo de nuestra fuente regulada a 5 voltios en el pin [VIN](https://github.com/jfuentesm1/proyecto-manuales/blob/main/img/u4%20ama.jpg) del regulador y debe encender la tarjeta sino enciende se procede a reparar.
+
+### daño en micro
+esta por revisar
 
 
 ---
@@ -36,12 +45,6 @@ si la tarjeta no enciende verificar que el voltaje del Lora U5 deben llegar 5 vo
 ### daño en IG Y L
 con las puntas del multimetro/amperimetro en modo continuidad se debe verificar que entre los espadines IG y L no exista continuidad, si marca continuidad se debe procede a reparar 
 
-### daño en reguladores 
-**exiten 3 reguladores en la tarjeta ama estos son U1, U2 y U4**
-
-[regulador u1 y u2](https://github.com/jfuentesm1/proyecto-manuales/blob/main/img/u1%20y%20u2%20ama.jpg) convierten 12v a 5v estos debemos energizarlos poniendo en negativo de la fuente a GND luego debemos tocar el pin **VIN** del regulador y deberia encender la tarjeta sino enciendiende se procede a reparar.
-
-[regulador u4](https://github.com/jfuentesm1/proyecto-manuales/blob/main/img/u4%20ama.jpg) convierte 5v a 3.3v este debemos energizar poniendo el negativo de la fuente a GND luego debemos tocar el pin **VIN** del regulador y debe encender la tarjeta sino enciende se procede a reparar.
 
 ### daño en micro
 esta por revisar
