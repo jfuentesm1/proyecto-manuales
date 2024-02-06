@@ -16,23 +16,36 @@ Al iniciar el diagnostico de una **tarjeta AMA** siempre se debe energizar con 1
 
 
 ### software
-ERROR: no enciende la tarjeta AMA
-REVISION: 
-> estado de los espadines 
-> funcionamiento del programador STLINK
+**ERROR:** no enciende la tarjeta AMA
 
-REPARACION: cargar firmware a tarjeta AMA
+**REVISION:** estado de los espadines, funcionamiento del programador STLINK
 
-### daño en inductores
-**DIAGNOSTICO:** no enciende la tarjeta AMA
+**SOLUCION:** cargar firmware a tarjeta AMA
 
-REVISION: 
-- [x] verificar que no esten rotos los inductores L1 Y L2 luego 
-- [ ] verifica que el voltaje sea 5 voltios en cualquiera de los dos extremos de inductor  
+
+### INDUCTORES
+
+**ERROR:** no enciende la tarjeta AMA
+
+**REVISION:** 
+
+- verificar que no esten rotos los inductores L1 Y L2
 
 **SOLUCION:** cambiar inductores dañados
 
-REPARACION: 
+**REPARACION:**
+encender la pistola de calor, apuntar sobre la ubicacion del inductor que desea cambiar, calentar hasta que pueda remover el inductor, luego colocar un inductor en buen estado en la posicion del inductor removido, calentar hasta que se suelde con la tarjeta
+
+> [!TIP]
+> temperatura de pistola de calor: 400
+> velocidad de pistola de calor: 1
+
+
+
+
+
+
+
 
 
 ### daño en Lora 
