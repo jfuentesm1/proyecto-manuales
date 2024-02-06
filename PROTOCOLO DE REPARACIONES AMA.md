@@ -4,7 +4,6 @@ se debe probar un **maximo actual** de tarjetas establecidas por reparador, al f
 - grupo, canal y dispositivo designada a cada reparador
 - numero escrito en LORA designado a reparador
 - tarjeta limpia y presentable
-- 
 > [!NOTE]
 > maximo de tarjetas ama: 15 unidades
 
