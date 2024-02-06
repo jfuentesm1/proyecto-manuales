@@ -4,9 +4,7 @@
 
 ## INDICE
 ---
-- diagnostico
-
-- reparacion
+- diagnostico y reparacion 
 
 - repuesto 
 
@@ -17,24 +15,44 @@
 Al iniciar el diagnostico de una **tarjeta AMA** siempre se debe energizar con 12 voltios en su bornera grande en el pin **batt+ y batt-** luego segun el problema se puede determinar su reparacion
 
 
-## No enciende 
 ### software
-la tarjeta necesita un software para su funcionamiento, sino no enciende se procede a cargar el firmware, si la tarjeta no carga firmware se procede a verificar la posicion de programador **STLINK** y su funcionamiento
+ERROR: no enciende la tarjeta AMA
+SOLUCION: cargar firmware a tarjeta AMA
+REVISION: 
+- [ ] estado de los espadines 
+- [ ] funcionamiento del programador STLINK
 
-si la tarjeta no carga firmware se procede a verificar los espadines de la tarjeta esten en optimas condiciones
 
 ### daño en inductores
-si la tarjeta no enciende se procede a verificar que el estado de los inductores L1 Y L2 sino estan rotos se verifica el voltaje sea 5 voltios en cualquiera de los dos extremos de inductor si estan rotos o no tienen el voltaje correcto, se procede a reparar 
+ERROR: no enciende la tarjeta AMA
+REVISION: 
+- [ ] verificar que no esten rotos los inductores L1 Y L2 luego 
+- [ ] verifica que el voltaje sea 5 voltios en cualquiera de los dos extremos de inductor  
+SOLUCION: cambiar inductores dañados
+REPARACION: 
+
 
 ### daño en Lora 
-si la tarjeta no enciende verificar que el voltaje del Lora U5 deben llegar 5 voltios al pin (como se muestra en la foto) si no le llega el voltaje correcto se procede a reparar
+ERROR: no enciende la tarjeta AMA
+
+DIAGNOSTICO: verificar que el voltaje del Lora U5 deben llegar 5 voltios al pin (como se muestra en la foto) si no le llega el voltaje correcto se procede a reparar 
+
+SOLUCION: cambiar el lora 
+
+REPARACION:
+
 
 ### daño en reguladores 
-**exiten 3 reguladores en la tarjeta ama estos son U1, U2 y U4**
+**regulador U1 Y U2**
+ERROR: reguladores U1 Y U2 quemados, reventadoss
+REVISION:
+SOLUCION: cambiar el regulador, recostruccion de pista segun su datasheet 
+INFO: [REGULADOR 12V A 5V](https://github.com/jfuentesm1/proyecto-manuales/blob/main/img/u1%20y%20u2%20ama.jpg) 
 
-regulador u1 y u2 convierte 12v a 5v, debemos energizar colocando el negativo de la fuente al GND de la tarjeta y el positivo de nuestra fuente regulada a 12 voltios en el pin [VIN](https://github.com/jfuentesm1/proyecto-manuales/blob/main/img/u1%20y%20u2%20ama.jpg) del regulador y deberia encender la tarjeta sino enciendiende se procede a reparar.
-
-regulador u4 convierte 5v a 3.3v debemos energizar poniendo el negativo de la fuente a GND de la tarjeta y el positivo de nuestra fuente regulada a 5 voltios en el pin [VIN](https://github.com/jfuentesm1/proyecto-manuales/blob/main/img/u4%20ama.jpg) del regulador y debe encender la tarjeta sino enciende se procede a reparar.
+**regulador U4**
+ERROR: reguladores U4 quemados, reventados
+SOLUCION: cambiar el regulador, recostruccion de pista segun su datasheet 
+INFO: [REGULADOR 5V A 3.3V](https://github.com/jfuentesm1/proyecto-manuales/blob/main/img/u4%20ama.jpg) 
 
 ### daño en micro
 esta por revisar
@@ -56,7 +74,7 @@ esta por revisar
 # REPARACIONES
 
 
-### reparacion en micro
+### reparacion en lora
 ### reparacion en IG y L
 ### reparacion en reguladores
 ### reparacion en pista
