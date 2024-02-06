@@ -1,3 +1,6 @@
+# PROTOCOLO PARA PROBAR AMA
+se debe probar un maximo de 10 **tarjetas** por reparador, al final del dia se reporta las tarjetas amas probadas en el banco de pruebas, cada reparador debe notificar el numeros de amas probadas hasta las 4:30pm
+
 # USO DE BANCO DE PRUEBAS AMA
 ## ARNES
 - encender la llave del arnes
@@ -28,3 +31,5 @@
 - enciende el led verde 
 - servomotor en posicion inicial
 - apagar el switch
+
+
