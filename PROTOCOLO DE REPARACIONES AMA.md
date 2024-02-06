@@ -1,7 +1,9 @@
 # PROTOCOLO PARA PROBAR AMA
-se debe probar un maximo de 10 **tarjetas** por reparador, al final del dia se reporta las tarjetas amas probadas en el banco de pruebas, cada reparador debe notificar el numeros de amas probadas hasta las 4:30pm y deben tener
+se debe probar un maximo actual de tarjetas establecidas por reparador, al final del dia se reporta las tarjetas amas probadas en el banco de pruebas y cada reparador debe notificar el numeros de amas probadas hasta las 4:30pm el numero de amas reparadas 
+## VERIFICAR
 - grupo, canal y dispositivo designada a cada reparador
 - numero escrito en **LORA** designado a reparador
+  
 # USO DE BANCO DE PRUEBAS AMA
 ## ARNES
 - encender la llave del arnes
