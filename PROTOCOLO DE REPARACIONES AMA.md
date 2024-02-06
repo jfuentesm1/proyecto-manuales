@@ -1,12 +1,13 @@
 # PROTOCOLO PARA PROBAR AMA
-se debe probar un maximo de 10 **tarjetas** por reparador, al final del dia se reporta las tarjetas amas probadas en el banco de pruebas, cada reparador debe notificar el numeros de amas probadas hasta las 4:30pm
-
+se debe probar un maximo de 10 **tarjetas** por reparador, al final del dia se reporta las tarjetas amas probadas en el banco de pruebas, cada reparador debe notificar el numeros de amas probadas hasta las 4:30pm y deben tener
+- grupo, canal y dispositivo designada a cada reparador
+- numero escrito en **LORA** designado a reparador
 # USO DE BANCO DE PRUEBAS AMA
 ## ARNES
 - encender la llave del arnes
 - conectar la tarjeta ama 
 - verificar el switch este apagado
-## RED
+## RED WIFI
 - encender la ESTACION BASE MOVIL
 - conectarse a la red WIFI: **APP MOVIL**
 - abrir el navegador y escribir la ip: **174.24.1.1**
