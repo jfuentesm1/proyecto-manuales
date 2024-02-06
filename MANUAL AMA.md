@@ -17,29 +17,32 @@ Al iniciar el diagnostico de una **tarjeta AMA** siempre se debe energizar con 1
 
 ### software
 ERROR: no enciende la tarjeta AMA
-SOLUCION: cargar firmware a tarjeta AMA
 REVISION: 
-- [ ] estado de los espadines 
-- [ ] funcionamiento del programador STLINK
+> estado de los espadines 
+> funcionamiento del programador STLINK
 
+REPARACION: cargar firmware a tarjeta AMA
 
 ### daño en inductores
-ERROR: no enciende la tarjeta AMA
+**DIAGNOSTICO:** no enciende la tarjeta AMA
+
 REVISION: 
-- [ ] verificar que no esten rotos los inductores L1 Y L2 luego 
+- [x] verificar que no esten rotos los inductores L1 Y L2 luego 
 - [ ] verifica que el voltaje sea 5 voltios en cualquiera de los dos extremos de inductor  
-SOLUCION: cambiar inductores dañados
+
+**SOLUCION:** cambiar inductores dañados
+
 REPARACION: 
 
 
 ### daño en Lora 
-ERROR: no enciende la tarjeta AMA
+**ERROR:** no enciende la tarjeta AMA
 
-DIAGNOSTICO: verificar que el voltaje del Lora U5 deben llegar 5 voltios al pin (como se muestra en la foto) si no le llega el voltaje correcto se procede a reparar 
+**DIAGNOSTICO:** verificar que el voltaje del Lora U5 deben llegar 5 voltios al pin (como se muestra en la foto) si no le llega el voltaje correcto se procede a reparar 
 
-SOLUCION: cambiar el lora 
+**SOLUCION:** cambiar el lora 
 
-REPARACION:
+**REPARACION:**
 
 
 ### daño en reguladores 
