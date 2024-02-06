@@ -14,7 +14,7 @@
 - enciende el led amarillo 
 - servomotor en posicion perpendicular
 - enciende el motor de arranque 
-## LECTURA DE RPS 1
+## LECTURA DE RPS 
 - encender el switch
 - encender el variador de frecuencia
 ## PING 2
