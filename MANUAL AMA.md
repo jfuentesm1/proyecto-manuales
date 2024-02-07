@@ -19,6 +19,7 @@ Al iniciar el diagnostico de una **tarjeta AMA** siempre se debe energizar con 1
 **REVISION:** estado de los espadines, funcionamiento del programador STLINK
 
 **SOLUCION:** cargar firmware a tarjeta AMA
+
 ---
 ### DAÑO DE INDUCTORES
 **ERROR:** no enciende la tarjeta AMA, inductores rotos L1 o L2
@@ -30,6 +31,7 @@ encender la pistola de calor, apuntar sobre la ubicacion del componente a cambia
 
 > [!NOTE]
 > temperatura de pistola de calor: 400 , velocidad de pistola de calor: 100 , boquilla de pistola: media
+
 ---
 ### FALSA LECTURA DE RPS
 **ERROR:** rps mayor a 0 al realizar prueba de ping 
@@ -41,6 +43,7 @@ encender la pistola de calor, apuntar sobre la ubicacion del componente a caambi
 
 > [!NOTE]
 > temperatura de pistola de calor: 400 , velocidad de pistola de calor: 100 , boca de pistola: pequeña
+
 ---
 ### LORA 
 **ERROR:** no enciende la tarjeta AMA
