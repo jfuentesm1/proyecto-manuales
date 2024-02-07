@@ -12,14 +12,14 @@
 
 # DIAGNOSTICO
 Al iniciar el diagnostico de una **tarjeta AMA** siempre se debe energizar con 12 voltios en su bornera grande en el pin **batt+ y batt-** luego segun el problema se puede determinar su reparacion
-
+---
 ### SOFTWARE
 **ERROR:** no enciende la tarjeta AMA
 
 **REVISION:** estado de los espadines, funcionamiento del programador STLINK
 
 **SOLUCION:** cargar firmware a tarjeta AMA
-
+---
 ### DAÑO DE INDUCTORES
 **ERROR:** no enciende la tarjeta AMA, inductores rotos L1 o L2
 
@@ -30,10 +30,9 @@ encender la pistola de calor, apuntar sobre la ubicacion del componente a cambia
 
 > [!NOTE]
 > temperatura de pistola de calor: 400 , velocidad de pistola de calor: 100 , boquilla de pistola: media
-
-
+---
 ### FALSA LECTURA DE RPS
-**ERROR:** falsa lectura de rps
+**ERROR:** rps mayor a 0 al realizar prueba de ping 
   
 **SOLUCION:** cambiar el opam U17
   
@@ -41,9 +40,9 @@ encender la pistola de calor, apuntar sobre la ubicacion del componente a cambia
 encender la pistola de calor, apuntar sobre la ubicacion del componente a caambiar y calentar hasta que pueda remover el componente, luego colocar el componente nuevo en la posicion del removido, calentar hasta que se suelde con la tarjeta
 
 > [!NOTE]
-> temperatura de pistola de calor: 400 , velocidad de pistola de calor: 100 , boca de pistola: pequeña 
+> temperatura de pistola de calor: 400 , velocidad de pistola de calor: 100 , boca de pistola: pequeña
+---
 ### LORA 
-
 **ERROR:** no enciende la tarjeta AMA
 
 **REVISION:** 
