@@ -60,8 +60,7 @@ estañar los pines del lora, colocar la pinza en la parte superior del lora lueg
 > temperatura de cautin: 400
 > tipo de pinza: ts20(simbolico)
 > tipo de punta: ts1200 (simbolico)
-
-
+---
 
 
 
