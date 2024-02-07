@@ -32,7 +32,9 @@ Al iniciar el diagnostico de una **tarjeta AMA** siempre se debe energizar con 1
 encender la pistola de calor, apuntar sobre la ubicacion del inductor que desea cambiar, calentar hasta que pueda remover el inductor, luego colocar un inductor en buen estado en la posicion del inductor removido, calentar hasta que se suelde con la tarjeta
 > [!TIP]
 > temperatura de pistola de calor: 400
+
 > velocidad de pistola de calor: 1
+
 ### LORA 
 **ERROR:** no enciende la tarjeta AMA
 
@@ -46,7 +48,9 @@ encender la pistola de calor, apuntar sobre la ubicacion del inductor que desea 
 estañar los pines del lora, colocar la pinza en la parte superior del lora luego calentar con la punta del cautin un lado de los pines del lora y hacer palanca al mismo tiempo, repetir el proceso del otro lado levantando poco a poco el lora hasta desoldar el lado derecho e izquierdo, luego desoldar el lado inferior para remover finalmente limpiar con malla de soldar o la misma punta del cautin el pad de lora removido, colocar el nuevo lora y soldarlo a la tarjeta
 > [!TIP]
 > temperatura de cautin: 400
+
 > tipo de pinza: ts20(simbolico)
+
 > tipo de punta: ts1200 (simbolico)
 
 
