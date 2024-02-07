@@ -20,19 +20,30 @@ Al iniciar el diagnostico de una **tarjeta AMA** siempre se debe energizar con 1
 
 **SOLUCION:** cargar firmware a tarjeta AMA
 
-### INDUCTORES
-**ERROR:** no enciende la tarjeta AMA
+### DAÑO DE INDUCTORES
+**ERROR:** no enciende la tarjeta AMA, inductores rotos L1 o L2
 
-**REVISION:** 
-- verificar que no esten rotos los inductores L1 Y L2
-  
 **SOLUCION:** cambiar inductores dañados
   
 **REPARACION:**
-encender la pistola de calor, apuntar sobre la ubicacion del inductor que desea cambiar, calentar hasta que pueda remover el inductor, luego colocar un inductor en buen estado en la posicion del inductor removido, calentar hasta que se suelde con la tarjeta
-> [!TIP]
-> temperatura de pistola de calor: 400 , velocidad de pistola de calor: 1
+encender la pistola de calor, apuntar sobre la ubicacion del componente a cambiar y calentar hasta que pueda remover el componente, luego colocar componente nuevo en la posicion del removido, calentar hasta que se suelde con la tarjeta
+
+> [!NOTE]
+> temperatura de pistola de calor: 400 , velocidad de pistola de calor: 100 , boquilla de pistola: media
+
+
+### FALSA LECTURA DE RPS
+**ERROR:** falsa lectura de rps
+  
+**SOLUCION:** cambiar el opam U17
+  
+**REPARACION:**
+encender la pistola de calor, apuntar sobre la ubicacion del componente a caambiar y calentar hasta que pueda remover el componente, luego colocar componente nuevo en la posicion del removido, calentar hasta que se suelde con la tarjeta
+
+> [!NOTE]
+> temperatura de pistola de calor: 400 , velocidad de pistola de calor: 100 , boca de pistola: pequeña 
 ### LORA 
+
 **ERROR:** no enciende la tarjeta AMA
 
 **REVISION:** 
