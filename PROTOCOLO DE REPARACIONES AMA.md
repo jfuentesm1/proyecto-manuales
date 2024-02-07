@@ -17,6 +17,8 @@ se debe probar el **maximo actual** de tarjetas establecidas por reparador, al f
 - conectarse a la red WIFI: **APP MOVIL**
 - ingresar contraseña: **Siemav.2019**
 - abrir el navegador y escribir la ip: **174.24.1.1**
+> [!NOTE]
+> si la estación base no responde **"lora_is_busy"**, reiniciarla 
 ## PING 1 
 - RSSI: <-100dB
 - BATERIA: <= 13.0 V
