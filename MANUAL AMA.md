@@ -26,7 +26,7 @@ Al iniciar el diagnostico de una **tarjeta AMA** siempre se debe energizar con 1
 **SOLUCION:** cambiar inductores dañados
   
 **REPARACION:**
-encender la pistola de calor, apuntar sobre la ubicacion del componente a cambiar y calentar hasta que pueda remover el componente, luego colocar componente nuevo en la posicion del removido, calentar hasta que se suelde con la tarjeta
+encender la pistola de calor, apuntar sobre la ubicacion del componente a cambiar y calentar hasta que pueda remover el componente, luego colocar el componente nuevo en la posicion del removido, calentar hasta que se suelde con la tarjeta
 
 > [!NOTE]
 > temperatura de pistola de calor: 400 , velocidad de pistola de calor: 100 , boquilla de pistola: media
@@ -38,7 +38,7 @@ encender la pistola de calor, apuntar sobre la ubicacion del componente a cambia
 **SOLUCION:** cambiar el opam U17
   
 **REPARACION:**
-encender la pistola de calor, apuntar sobre la ubicacion del componente a caambiar y calentar hasta que pueda remover el componente, luego colocar componente nuevo en la posicion del removido, calentar hasta que se suelde con la tarjeta
+encender la pistola de calor, apuntar sobre la ubicacion del componente a caambiar y calentar hasta que pueda remover el componente, luego colocar el componente nuevo en la posicion del removido, calentar hasta que se suelde con la tarjeta
 
 > [!NOTE]
 > temperatura de pistola de calor: 400 , velocidad de pistola de calor: 100 , boca de pistola: pequeña 
