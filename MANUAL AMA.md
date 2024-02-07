@@ -10,8 +10,8 @@
 
 - descarte
 
-# DIAGNOSTICO
-Al iniciar el diagnostico de una **tarjeta AMA** siempre se debe energizar con 12 voltios en su bornera grande en el pin **batt+ y batt-** luego segun el problema se puede determinar su reparacion
+> [!IMPORTANT]
+> Al iniciar el diagnostico de una **tarjeta AMA** siempre se debe energizar con 12 voltios en su bornera grande en el pin **batt+ y batt-** luego segun el problema se puede determinar su reparacion
 
 ---
 ### SOFTWARE
