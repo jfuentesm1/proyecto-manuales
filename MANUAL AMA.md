@@ -31,8 +31,7 @@ Al iniciar el diagnostico de una **tarjeta AMA** siempre se debe energizar con 1
 **REPARACION:**
 encender la pistola de calor, apuntar sobre la ubicacion del inductor que desea cambiar, calentar hasta que pueda remover el inductor, luego colocar un inductor en buen estado en la posicion del inductor removido, calentar hasta que se suelde con la tarjeta
 > [!TIP]
-> temperatura de pistola de calor: 400
-> velocidad de pistola de calor: 1
+> temperatura de pistola de calor: 400 , velocidad de pistola de calor: 1
 ### LORA 
 **ERROR:** no enciende la tarjeta AMA
 
