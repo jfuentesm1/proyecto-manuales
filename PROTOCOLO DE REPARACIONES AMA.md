@@ -1,5 +1,5 @@
 # PROTOCOLO PARA PROBAR AMA
-se debe probar el **maximo actual** de tarjetas establecidas por reparador, al final del dia se reporta las tarjetas amas probadas en el banco de pruebas y cada reparador debe notificar su numero de amas probadas hasta las 4:30pm.
+se debe probar el **maximo actual** de tarjetas establecidas por reparador, al final del dia se reporta las tarjetas amas probadas en el banco de pruebas y cada reparador debe notificar su numero de amas probadas hasta las 4:20pm.
 ## VERIFICAR
 - grupo, canal y dispositivo designada a cada reparador
 - numero escrito en LORA designado a reparador
