@@ -82,7 +82,6 @@ estañar los pines del lora, colocar la pinza en la parte superior del lora lueg
 
 
 
-
 ### daño en micro
 esta por revisar
 
