@@ -17,8 +17,6 @@ Al iniciar el diagnostico de una **tarjeta AMA** siempre se debe energizar con 1
 ### SOFTWARE
 **ERROR:** no enciende la tarjeta AMA
 
-**REVISION:** estado de los espadines, funcionamiento del programador STLINK
-
 **SOLUCION:** cargar firmware a tarjeta AMA
 
 ---
