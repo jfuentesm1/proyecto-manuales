@@ -1,38 +1,38 @@
-# PASOS GENERALES
-## RED WIFI
+## PASOS GENERALES
+### RED WIFI
 - encender la ESTACION BASE MOVIL
 - conectarse a la red WIFI: **APP MOVIL**
 - ingresar contraseña: **Siemav.2019**
 - abrir el navegador y escribir la ip: **172.24.1.1**
-## ARNES
+### ARNES
 - encender la llave del arnes
 ---
-# AMA CHECK LIST 
-## INSPECCION
+## AMA CHECK LIST 
+### INSPECCIÓN
 - numero escrito en LORA del reparador
 - conectar la tarjeta ama
-## PING 1 
+### PING 1 
 - RSSI: < -100dB
 - BATERIA: < = 13.0 V
-## ARRANCAR
+### ARRANCAR
 - enciende el led amarillo 
 - servomotor en posicion perpendicular
 - enciende el motor de arranque 
-## LECTURA DE RPS 
+### LECTURA DE RPS 
 - encender el switch
 - encender el variador de frecuencia
-## PING 2
+### PING 2
 - BATERIA: = > 14.0 V
 - RPS: > 200 RPS
 - apagar el variador de frecuencia
-## PING 3
+### PING 3
 - BATERIA: < 13.0 V
 - RPS: 0 RPS
-## DETENER 
+### DETENER 
 - enciende el led verde 
 - servomotor en posicion inicial
 - apagar el switch
-## OK 
+### FINALIZACIÓN 
 - escribir numero designado del reparador en la bornera pequeña
 
 
