@@ -1,27 +1,19 @@
-# PROTOCOLO PARA PROBAR AMA
-se debe probar el **maximo actual** de tarjetas establecidas por reparador, al final del dia se reporta las tarjetas amas probadas en el banco de pruebas y cada reparador debe notificar su numero de amas probadas hasta las 4:20pm.
-## VERIFICAR
-- grupo, canal y dispositivo designada a cada reparador
-- numero escrito en LORA designado a reparador
-- tarjeta limpia y presentable
-> [!NOTE]
-> maximo actual tarjetas ama: 15 unidades
-
-# USO DE BANCO DE PRUEBAS AMA
-## ARNES
-- encender la llave del arnes
-- conectar la tarjeta ama 
-- verificar el switch este apagado
+# PASOS GENERALES
 ## RED WIFI
 - encender la ESTACION BASE MOVIL
 - conectarse a la red WIFI: **APP MOVIL**
 - ingresar contraseña: **Siemav.2019**
 - abrir el navegador y escribir la ip: **172.24.1.1**
-> [!NOTE]
-> si la estación base no responde **"lora_is_busy"**, reiniciarla 
+## ARNES
+- encender la llave del arnes
+---
+# AMA CHECK LIST 
+## INSPECCION
+- numero escrito en LORA del reparador
+- conectar la tarjeta ama
 ## PING 1 
-- RSSI: <-100dB
-- BATERIA: <= 13.0 V
+- RSSI: < -100dB
+- BATERIA: < = 13.0 V
 ## ARRANCAR
 - enciende el led amarillo 
 - servomotor en posicion perpendicular
@@ -30,7 +22,7 @@ se debe probar el **maximo actual** de tarjetas establecidas por reparador, al f
 - encender el switch
 - encender el variador de frecuencia
 ## PING 2
-- BATERIA: => 14.0 V
+- BATERIA: = > 14.0 V
 - RPS: > 200 RPS
 - apagar el variador de frecuencia
 ## PING 3
@@ -40,5 +32,7 @@ se debe probar el **maximo actual** de tarjetas establecidas por reparador, al f
 - enciende el led verde 
 - servomotor en posicion inicial
 - apagar el switch
+## OK 
+- escribir numero designado del reparador en la bornera pequeña
 
 
