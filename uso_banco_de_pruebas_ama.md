@@ -3,7 +3,7 @@
 - encender la ESTACION BASE MOVIL
 - conectarse a la red WIFI: **APP MOVIL**
 - ingresar contraseña: **Siemav.2019**
-- abrir el navegador y escribir la ip: **172.24.1.1**
+- abrir el navegador y escribir la IP: **172.24.1.1**
 ### ARNES
 - encender la llave del arnes
 ---
@@ -33,6 +33,6 @@
 - servomotor en posicion inicial
 - apagar el switch
 ### FINALIZACIÓN 
-- escribir numero designado del reparador en la bornera pequeña
+- escribir su numero designado en el centro del borner verde
 
 
