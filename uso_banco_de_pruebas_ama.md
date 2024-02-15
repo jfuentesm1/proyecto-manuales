@@ -36,6 +36,7 @@
 - enciende el led verde 
 - servomotor en posicion detenido
 ### FINALIZACIÓN 
-- adjuntar el numero del tester 
+- adjuntar el numero del tester
+- devolucion de tarjetas a reparadores
 
 
