@@ -11,17 +11,15 @@
 ---
 ## PROCESO DE DESCARTE.
 ### REPUESTO
-1. diagnosticar tarjeta ama e identificar si es posible repararse o no
-2. redactar diagnóstico de descarte y adjuntar número de reparador
-3. almacenar en grupos de 10 tarjetas ama
-4. contabilizar de tarjetas ama descartadas
-
---- 
+1. __diagnosticar__ tarjeta ama e identificar si es posible repararse o no
+2. __redactar__ diagnóstico de descarte y adjuntar número de reparador
+3. __almacenar__ en grupos de 10 tarjetas ama
+4. __contabilizar__ de tarjetas ama descartadas
 ### CHATARRA
-1. diagnosticar tarjeta ama e identificar si es posible rescatar componentes o no
-2. redactar diagnóstico de descarte y adjuntar número de reparador
-3. almacenar en grupos de 10 tarjetas ama
-4. contabilizar de tarjetas ama chatarra
+1. __diagnosticar__ tarjeta ama e identificar si es posible rescatar componentes o no
+2. __redactar__ diagnóstico de descarte y adjuntar número de reparador
+3. __almacenar__ en grupos de 10 tarjetas ama
+4. __contabilizar__ de tarjetas ama chatarra
 
 
 
