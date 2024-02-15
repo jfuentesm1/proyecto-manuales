@@ -6,7 +6,7 @@
 5. encender el banco de pruebas
 ---
 ### INSPECCIÓN
-- numero escrito en LORA del reparador
+- numero escrito en __LORA__ del reparador
 - encendido de tarjeta ama
 ### PING 1 
 - RSSI: < -100dB
