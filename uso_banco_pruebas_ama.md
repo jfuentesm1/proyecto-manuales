@@ -6,38 +6,38 @@
 5. encender llave del banco de pruebas
 ---
 ### INSPECCIÓN
-- checkeo de integridad de tarjeta 
-- numero escrito en __LORA__ del reparador
-- encendido de tarjeta ama
+- [x] checkeo de integridad de tarjeta 
+- [x] numero escrito en __LORA__ del reparador
+- [x] encendido de tarjeta ama
 ### PING 1 
-- RSSI: < -100dB
-- BATERIA: < = 13.0 V
-- TEMPERATURA: < 40.0
-- HUMEDAD: < 70.0
-- RPS: 0 
-- ESTADO DE MOTOR: IDLE
-- ESTADO DE MEMORIA: OK
+- [x] RSSI: < -100dB
+- [x] BATERIA: < = 13.0 V
+- [x] TEMPERATURA: < 40.0
+- [x] HUMEDAD: < 70.0
+- [x] RPS: 0 
+- [x] ESTADO DE MOTOR: IDLE
+- [x] ESTADO DE MEMORIA: OK
 ### ARRANCAR
-- enciende el led amarillo 
-- servomotor en posicion de arranque
-- enciende el motor de arranque 
+- [x] enciende el led amarillo 
+- [x] servomotor en posicion de arranque
+- [x] enciende el motor de arranque 
 ### LECTURA DE RPS 
-- encender el switch
-- encender el variador de frecuencia
+- [x] encender el switch
+- [x] encender el variador de frecuencia
 ### PING 2
-- BATERIA: = > 14.0 V
-- RPS: > 200 RPS
-- ESTADO DE MOTOR: RUN
-- apagar el variador de frecuencia
-- apagar el switch
+- [x] BATERIA: = > 14.0 V
+- [x] RPS: > 200 RPS
+- [x] ESTADO DE MOTOR: RUN
+- [x] apagar el variador de frecuencia
+- [x] apagar el switch
 ### PING 3
-- BATERIA: < 13.0 V
-- RPS: 0
+- [x] BATERIA: < 13.0 V
+- [x] RPS: 0
 ### DETENER 
-- enciende el led verde 
-- servomotor en posicion detenido
+- [x] enciende el led verde 
+- [x] servomotor en posicion detenido
 ### FINALIZACIÓN 
-- adjuntar el numero del tester
-- devolucion de tarjetas a reparadores
+- [x] adjuntar el numero del tester
+- [x] devolucion de tarjetas a reparadores
 
 
