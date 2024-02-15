@@ -6,6 +6,7 @@
 5. encender llave del banco de pruebas
 ---
 ### INSPECCIÓN
+- checkeo de integridad de tarjeta 
 - numero escrito en __LORA__ del reparador
 - encendido de tarjeta ama
 ### PING 1 
