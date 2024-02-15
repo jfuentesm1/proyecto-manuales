@@ -3,7 +3,7 @@
 2. conectarse a la red WIFI: **APP MOVIL**
 3. ingresar contraseña: **Siemav.2019**
 4. abrir el navegador y escribir la IP: **172.24.1.1**
-5. encender el banco de pruebas
+5. encender llave del banco de pruebas
 ---
 ### INSPECCIÓN
 - numero escrito en __LORA__ del reparador
