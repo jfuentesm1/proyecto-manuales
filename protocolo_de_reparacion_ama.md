@@ -1,13 +1,13 @@
 ## PROCESO DE REPARACION.
-1. diagnosticar la tarjeta ama
-2. reparar la tarjeta ama
-3. asignar grupo-canal-dispositivo y adjuntar número del reparador
-4. entrega de tarjetas ama al tester designado
-5. revisión de tarjetas ama por el tester
-6. devolución de tarjetas ama al reparador por parte del tester
-7. limpieza de la tarjeta ama por parte del reparador
-8. contabilización de tarjetas por parte del reparador
-9. almacenar tarjeta ama reparada
+1. __diagnosticar__ la tarjeta ama
+2. __reparar__ la tarjeta ama
+3. __asignar__ grupo-canal-dispositivo y adjuntar número del reparador
+4. __entrega__ de tarjetas ama al tester designado
+5. __revisión__ de tarjetas ama por el tester
+6. __devolución__ de tarjetas ama al reparador por parte del tester
+7. __limpieza__ de la tarjeta ama por parte del reparador
+8. __contabilización__ de tarjetas por parte del reparador
+9. __almacenar__ tarjeta ama reparada
 ---
 ## PROCESO DE DESCARTE.
 ### REPUESTO
