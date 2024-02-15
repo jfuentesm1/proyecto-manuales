@@ -1,43 +1,28 @@
 ## PROCESO DE REPARACION.
-### PASO 1
-DIAGNOSTICAR LA TARJETA AMA
-### PASO 2
-REPARAR LA TARJETA AMA
-### PASO 3 
-ASIGNAR GRUPO-CANAL-DISPOSITIVO Y ADJUNTAR NUMERO DEL REPARADOR
-### PASO 4
-ENTREGA DE TARJETAS AMA AL TESTER DESIGNADO
-### PASO 5
-REVISION DE TARJETAS AMA POR EL TESTER [PROCESO](https://github.com/jfuentesm1/proyecto-manuales/blob/main/uso_banco_de_pruebas_ama.md)
-### PASO 6
-DEVOLUCION DE TARJETAS AMA AL REPARADOR POR PARTE DEL TESTER
-### PASO 7
-LIMPIEZA DEL TARJETA AMA POR PARTE DEL REPARADOR
-### PASO 8
-CONTABILIZACION DE TARJETAS POR PARTE DEL REPARADOR
-### PASO 9
-ALMACENAR TARJETA AMA REPARADA
+1. diagnosticar la tarjeta ama
+2. reparar la tarjeta ama
+3. asignar grupo-canal-dispositivo y adjuntar número del reparador
+4. entrega de tarjetas ama al tester designado
+5. revisión de tarjetas ama por el tester
+6. devolución de tarjetas ama al reparador por parte del tester
+7. limpieza de la tarjeta ama por parte del reparador
+8. contabilización de tarjetas por parte del reparador
+9. almacenar tarjeta ama reparada
 ---
 ## PROCESO DE DESCARTE.
 ### REPUESTO
-### PASO 1
-DIAGNOSTICAR TARJETA AMA E IDENTIFICAR SI ES POSIBLE REPARARSE O NO
-### PASO 2
-REDACTAR DIAGNOSTICO DE DESCARTE Y ADJUNTAR NUMERO DE REPARADOR
-### PASO 3
-ALMACENAR EN GRUPOS DE 10 TARJETAS AMA
-### PASO 4
-CONTABILIZAR DE TARJETAS AMA DESCARTADAS
+1. diagnosticar tarjeta ama e identificar si es posible repararse o no
+2. redactar diagnóstico de descarte y adjuntar número de reparador
+3. almacenar en grupos de 10 tarjetas ama
+4. contabilizar de tarjetas ama descartadas
+
 --- 
 ### CHATARRA
-### PASO 1
-DIAGNOSTICAR TARJETA AMA E IDENTIFICAR SI ES POSIBLE RESCATAR COMPONENTES O NO
-### PASO 2
-REDACTAR DIAGNOSTICO DE DESCARTE Y ADJUNTAR NUMERO DE REPARADOR
-### PASO 3
-ALMACENAR EN GRUPOS DE 10 TARJETAS AMA
-### PASO 4
-CONTABILIZAR DE TARJETAS AMA CHATARRA
+1. diagnosticar tarjeta ama e identificar si es posible rescatar componentes o no
+2. redactar diagnóstico de descarte y adjuntar número de reparador
+3. almacenar en grupos de 10 tarjetas ama
+4. contabilizar de tarjetas ama chatarra
+
 
 
 
