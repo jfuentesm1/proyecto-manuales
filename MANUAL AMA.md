@@ -101,7 +101,8 @@ esta por revisar
 ### reparacion en inductores
 ### reparacion en ...
 
-
+ERROR LED ROJO
+cambie el micro, cambie la memoria flash cambie el lora y actualice firmware, alimente directamente en diodio d10 para que funcione
 
 
 
