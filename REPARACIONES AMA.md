@@ -1,9 +1,3 @@
-# DEPARTAMENTO DE REPARACIONES
-## OBJETIVO GENERAL
-    proporcionar orientacion para guiar a nuestros lectores, sobre los estandares y procedimientos establecidos en SIEMAV facilitando el aprendizaje, promoviendo la consistencia y minimizando los errores garantizando seguridad, conformidad y calidad de nuestro trabajo.
-    
-> [!IMPORTANT]
-> Al iniciar el diagnostico de una **tarjeta AMA** siempre se debe energizar con 12 voltios en su bornera grande en el pin **batt+ y batt-** luego segun el problema se puede determinar su reparacion
 
 ---
 ### SOFTWARE
