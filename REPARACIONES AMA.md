@@ -97,6 +97,9 @@ esta por revisar
 
 ERROR LED ROJO
 cambie el micro, cambie la memoria flash cambie el lora y actualice firmware, alimente directamente en diodio d10 para que funcione
+ASP:
+ERROR: TARJETA NO ENCIENDE
+Revise la continuidad del MOSFET Q4 con el capacitor, una vez revisada esa `pista se detecto que el regulador de 3.3V estaba elevada la temperatura, se reemplazo el regulador de 3.3 (U9) y la tarjeta no encendia, se verificó que el regulador funcione correctamente y se procedio a cargar firmware, lo que hizo que la tarjeta encienda correctamente. 
 
 
 
