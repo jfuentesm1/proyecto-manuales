@@ -1,5 +1,29 @@
-ERRORES DE CODIFICACION
-evitar codificacion duplicada
-evitar confucion de codigos
-evitar espacios en los informes
-evitar confucion de tarjetas
+# CODE CHECK LIST
+
+1. **Ingresar al Drive Control de Tarjetas**
+2. **Duplicar la hoja de Excel para escribir los códigos**
+3. **Llenar los campos respectivos**
+    - Alimentar la tarjeta 12 voltios o 3.3 voltios en los pines respectivos
+4. **Abrir el programa STM32CubeProgrammer**
+    - Conectar el cable de programador a la tarjeta para obtener el código
+    - Llenar los campos respectivos
+        - Address para ASP: 0x1FFF7a10
+        - Address para AMA: 0x1FFF7590
+        - Size: 12
+    - Dar clic en Connect
+5. **Relacionar ID numérico con el código generado**
+    - Tres celdas unificadas del programa
+6. **Casos para colocar código de talonario**
+    - Tarjetas con/sin código ID sulfatadas, explotadas, sin pista, que no enciendan
+    - Tarjetas con/sin ID con corto en la línea de 3.3 voltios
+    - Tarjetas con/sin ID que no sea oportuna su reparación
+7. **Casos para colocar código QR**
+    - Tarjetas sin/con ID que se puedan reparar
+8. **Escribir la relación en las columnas respectivas en Control de Tarjetas (ID y códigos)**
+9. **Revisar que esté conectado a internet**
+10. **Abrir el Excel para imprimir códigos QR (QR_GENERATOR)**
+11. **Escribir los códigos en hoja en QR**
+12. **Seleccionar los códigos generados e imprimirlos**
+13. **Enviar a imprimir solo la selección**
+14. **Recortar los códigos QR**
+15. **Pegar los códigos QR en su respectiva tarjeta**
